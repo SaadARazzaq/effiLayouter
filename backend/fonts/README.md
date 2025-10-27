@@ -1,0 +1,1 @@
+This folder contained fonts that i have already uploaded in the root of this repo. To make sure this project runs, kindly copy paste the fonts from root fonts dir to this dir
